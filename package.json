@@ -1,5 +1,5 @@
 {
-  "name": "mern_product_manager_part_one_practice",
+  "name": "mern_product_manager_part_three_core",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tmax818/mern_product_manager_part_one_practice.git"
+    "url": "git+https://github.com/tmax818/mern_product_manager_part_three_core.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tmax818/mern_product_manager_part_one_practice/issues"
+    "url": "https://github.com/tmax818/mern_product_manager_part_three_core/issues"
   },
-  "homepage": "https://github.com/tmax818/mern_product_manager_part_one_practice#readme",
+  "homepage": "https://github.com/tmax818/mern_product_manager_part_three_core#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
